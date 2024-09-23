@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed');
+@import url('https://fonts.googleapis.com/css?family=Poppins:300,400,500i,700,900,900i');
+@import url('https://fonts.googleapis.com/css?family=Raleway:300,400,500i,700,900,900i');
+@import url('https://fonts.googleapis.com/css?family=Quicksand:300,400,500i,700,900,900i');
+@import url('https://fonts.googleapis.com/css?family=Cabin:300,400,500i,900,900i');
+@import url('https://fonts.googleapis.com/css?family=Abel:300,400,500i,700,900,900i');
+@import url('https://fonts.googleapis.com/css?family=Hind:300,400,500i,700,900,900i');
+@import url('https://fonts.googleapis.com/css?family=Tajawal:300,400,500i,700,900,900i');
+@import url('https://fonts.googleapis.com/css?family=Montserrat:300,400,700,500i,900,900i');
+@import url('https://fonts.googleapis.com/css?family=Lato:300,400,700,500i,900,900i');
+
+
+@font-face {
+    font-family: 'Inter var';
+    font-weight: 100 900;
+    font-display: block;
+    font-style: normal;
+    font-named-instance: 'Regular';
+    src: url('../fonts/Inter-roman-latin.var.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Inter var';
+    font-weight: 100 900;
+    font-display: block;
+    font-style: italic;
+    font-named-instance: 'Italic';
+    src: url('../fonts/Inter-italic-latin.var.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Fira Code VF';
+    font-weight: 300 700;
+    font-style: normal;
+    src: url('../fonts/FiraCode-VF.woff2') format('woff2-variations'),
+        url('../fonts/FiraCode-VF.woff') format('woff-variations');
+}
+
+.font-mono {
+    font-variant-ligatures: none;
+}
+
+@font-face {
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url('../fonts/SourceSansPro-Regular.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'Dank Mono';
+    font-weight: 700;
+    font-style: normal;
+    src: url('../fonts/DankMono-Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Ethnocentric';
+    font-weight: 700;
+    font-style: normal;
+    src: url('../fonts/ethnocentric_rg.woff') format('woff');
+}

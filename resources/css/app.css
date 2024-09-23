@@ -1,0 +1,17 @@
+@import 'fonts.css';
+
+/* @tailwind base; */
+@tailwind components;
+@tailwind utilities;
+
+/* linkActive {
+    background-color: aliceblue;
+} */
+
+.mantine-Modal-content {
+    overflow: visible !important;
+}
+
+.mantine-Modal-header {
+    border-radius: 8px;
+}

@@ -1,0 +1,14 @@
+.wrapper:hover {
+    transition-duration: 100ms;
+    transform: scale(1.04);
+}
+
+.wrapper {
+    cursor: pointer;
+}
+
+.deleteButton {
+    position: absolute;
+    top: 4px;
+    right: 4px;
+}

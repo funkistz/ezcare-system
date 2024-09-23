@@ -1,0 +1,13 @@
+.user {
+    display: block;
+    width: 100%;
+    padding: var(--mantine-spacing-xs);
+    color: light-dark(var(--mantine-color-black), var(--mantine-color-dark-0));
+    border-radius: 30px;
+    /* background-color: light-dark(var(--mantine-color-primary-6), var(--mantine-color-primary-6)); */
+
+    @mixin hover {
+        background-color: light-dark(var(--mantine-color-primary-3), var(--mantine-color-primary-3));
+        color: light-dark(var(--mantine-color-black), var(--mantine-color-dark-0));
+    }
+}
